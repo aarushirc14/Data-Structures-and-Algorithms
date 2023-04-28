@@ -1,6 +1,5 @@
 /**
  * Author: Aarushi Roy Choudhury
- * Student ID: 30113987
  * Course: CPSC 319
  * Tutorial: T06
  * Assignment 2
