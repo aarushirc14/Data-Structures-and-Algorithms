@@ -1,4 +1,3 @@
-Input files are provided in the same folder as the java files. Output files are provided in the "outputFiles" folder.
 To compile the program:
 
 	javac Assign4.java DiGraph.java Edge.java LList.java Matrix2D.java Queue.java Vertex.java WeightedEdge.java
