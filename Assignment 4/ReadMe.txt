@@ -1,10 +1,3 @@
-Read Me
-
-
-CPSC 319: Assignment 4
-
-I attempted the bonus.
-
 Input files are provided in the same folder as the java files. Output files are provided in the "outputFiles" folder. A pdf file answering the questions is also included.
 
 To compile the program:
