@@ -1,4 +1,3 @@
-Assignment 2 for CPSC 319 
 
 
 Please note:
