@@ -1,2 +1,1 @@
-# CPSC-319-Assignment 1
-A program that tests the efficiency of various sorting algorithms.
+# A program that implements and tests the efficiency of various sorting algorithms like quick sort, merge sort and bubble sort.
