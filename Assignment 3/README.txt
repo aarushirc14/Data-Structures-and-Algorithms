@@ -1,5 +1,4 @@
 Binary Search Trees and AVL Trees
-CPSC 319: Assignment 3- With BONUS
 
 
 This program will read input from a text file and create a Binary Search Tree with the data. It will then output to 2 files. The first file will contain the data fields in chronological order(depth first). The second file will contain elements as they appear in the tree from top to bottom, left to right (breadth first).
